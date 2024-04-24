@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/martinsn/high-frequency-crypto-limit-order-book-data
+
+
+more than 1gb data, so we used google drive
